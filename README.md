@@ -1,1 +1,1 @@
-# DSA Repositry for saving DSA practice problems 
+ Repositry for saving DSA practice problems and solutions 
